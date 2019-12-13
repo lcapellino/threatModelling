@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "My Threatmodel",
+    "owner": "Lucas Capellino"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "webapp",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
